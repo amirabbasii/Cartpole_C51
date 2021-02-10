@@ -1,2 +1,2 @@
 # Distributional-RL
-<img src="cartpole.gif" width="150" height="100" />
+<img src="cartpole.gif" width="300" height="250" />
