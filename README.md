@@ -1,6 +1,6 @@
 # Solving CartPole using Distributional RL
 
-In this project,I implemented an agent that can learn to control a cartpole using C51 algorithm which is introduced by ["A Distributional Perspective on Reinforcement Learning"](https://arxiv.org/abs/1707.06887)
+In this project,I implemented an agent that can learn to control a cartpole using C51 algorithm which is introduced by ["A Distributional Perspective on Reinforcement Learning"](https://arxiv.org/abs/1707.06887).Also I used double q-learning instead q-learning to keep stability during training.
 
 
 # graph
